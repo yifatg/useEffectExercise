@@ -1,0 +1,8 @@
+.vscode
+node_modules
+dist
+*.log
+yarn.lock
+publish/FPGA*
+publish/publish_test.ps1
+*.env
