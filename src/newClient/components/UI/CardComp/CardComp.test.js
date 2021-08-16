@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-import { shallow, mount, render, configure } from 'enzyme';
+import { shallow, mount, render } from 'enzyme';
 import CardComp from './CardComp';
 import { findByTestAttr, checkProps } from '../../../../test/testUtils';
 // import 'jsdom-global/register';
